@@ -27,7 +27,7 @@ I implemented a decorator-based tool system where you just annotate functions wi
 
 1. Clone the repo and install dependencies:
 ```bash
-git clone <repository-url>
+git clone `https://github.com/shoamafeka/PharmacistAssistant.git`
 cd PharmacistAssistant
 pip install -r requirements.txt
 ```
