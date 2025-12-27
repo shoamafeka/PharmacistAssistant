@@ -1,0 +1,279 @@
+[
+  {
+    "customer_id": "CUST001",
+    "first_name": "Sarah",
+    "last_name": "Johnson",
+    "phone": "555-0101",
+    "email": "sarah.johnson@email.com",
+    "date_of_birth": "1985-03-15",
+    "prescriptions": [
+      {
+        "prescription_id": "RX001",
+        "medication_name": "Lisinopril",
+        "prescribed_date": "2024-01-15",
+        "expiry_date": "2026-01-15",
+        "is_one_time": false,
+        "prescribing_doctor": "Dr. Michael Chen",
+        "dosage": "10mg once daily",
+        "quantity": 30,
+        "special_instructions": "Take with food to reduce stomach upset"
+      },
+      {
+        "prescription_id": "RX002",
+        "medication_name": "Amoxicillin",
+        "prescribed_date": "2024-11-20",
+        "expiry_date": "2026-12-20",
+        "is_one_time": true,
+        "prescribing_doctor": "Dr. Emily Rodriguez",
+        "dosage": "500mg three times daily",
+        "quantity": 21,
+        "special_instructions": "Complete the full course even if symptoms improve"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST002",
+    "first_name": "James",
+    "last_name": "Williams",
+    "phone": "555-0102",
+    "email": "james.williams@email.com",
+    "date_of_birth": "1978-07-22",
+    "prescriptions": [
+      {
+        "prescription_id": "RX003",
+        "medication_name": "Metformin",
+        "prescribed_date": "2023-06-01",
+        "expiry_date": "2026-06-01",
+        "is_one_time": false,
+        "prescribing_doctor": "Dr. Patricia Martinez",
+        "dosage": "500mg twice daily",
+        "quantity": 60,
+        "special_instructions": "Take with meals to minimize gastrointestinal side effects"
+      },
+      {
+        "prescription_id": "RX004",
+        "medication_name": "Atorvastatin",
+        "prescribed_date": "2024-09-10",
+        "expiry_date": "2026-09-10",
+        "is_one_time": false,
+        "prescribing_doctor": "Dr. Patricia Martinez",
+        "dosage": "20mg once daily at bedtime",
+        "quantity": 30,
+        "special_instructions": null
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST003",
+    "first_name": "Emily",
+    "last_name": "Davis",
+    "phone": "555-0103",
+    "email": "emily.davis@email.com",
+    "date_of_birth": "1992-11-08",
+    "prescriptions": [
+      {
+        "prescription_id": "RX005",
+        "medication_name": "Ibuprofen",
+        "prescribed_date": "2024-10-15",
+        "expiry_date": "2025-10-15",
+        "is_one_time": false,
+        "prescribing_doctor": "Dr. Robert Kim",
+        "dosage": "400mg as needed for pain",
+        "quantity": 90,
+        "special_instructions": "Do not exceed 1200mg per day. Take with food or milk"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST004",
+    "first_name": "Michael",
+    "last_name": "Brown",
+    "phone": "555-0104",
+    "email": "michael.brown@email.com",
+    "date_of_birth": "1980-05-30",
+    "prescriptions": [
+      {
+        "prescription_id": "RX006",
+        "medication_name": "Azithromycin",
+        "prescribed_date": "2024-08-01",
+        "expiry_date": "2024-09-01",
+        "is_one_time": true,
+        "prescribing_doctor": "Dr. Lisa Anderson",
+        "dosage": "500mg once daily",
+        "quantity": 5,
+        "special_instructions": "Take on an empty stomach, 1 hour before or 2 hours after meals"
+      },
+      {
+        "prescription_id": "RX007",
+        "medication_name": "Lisinopril",
+        "prescribed_date": "2024-03-01",
+        "expiry_date": "2025-03-01",
+        "is_one_time": false,
+        "prescribing_doctor": "Dr. Lisa Anderson",
+        "dosage": "5mg once daily",
+        "quantity": 30,
+        "special_instructions": null
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST005",
+    "first_name": "Jessica",
+    "last_name": "Miller",
+    "phone": "555-0105",
+    "email": "jessica.miller@email.com",
+    "date_of_birth": "1987-12-14",
+    "prescriptions": [
+      {
+        "prescription_id": "RX008",
+        "medication_name": "Metformin",
+        "prescribed_date": "2024-11-01",
+        "expiry_date": "2025-11-01",
+        "is_one_time": false,
+        "prescribing_doctor": "Dr. David Thompson",
+        "dosage": "1000mg twice daily",
+        "quantity": 60,
+        "special_instructions": "Start with lower dose and gradually increase to minimize side effects"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST006",
+    "first_name": "David",
+    "last_name": "Wilson",
+    "phone": "555-0106",
+    "email": "david.wilson@email.com",
+    "date_of_birth": "1975-09-25",
+    "prescriptions": [
+      {
+        "prescription_id": "RX009",
+        "medication_name": "Atorvastatin",
+        "prescribed_date": "2023-12-01",
+        "expiry_date": "2024-12-01",
+        "is_one_time": false,
+        "prescribing_doctor": "Dr. Susan Lee",
+        "dosage": "40mg once daily",
+        "quantity": 30,
+        "special_instructions": null
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST007",
+    "first_name": "Amanda",
+    "last_name": "Taylor",
+    "phone": "555-0107",
+    "email": "amanda.taylor@email.com",
+    "date_of_birth": "1990-04-18",
+    "prescriptions": [
+      {
+        "prescription_id": "RX010",
+        "medication_name": "Amoxicillin",
+        "prescribed_date": "2024-09-15",
+        "expiry_date": "2024-10-15",
+        "is_one_time": true,
+        "prescribing_doctor": "Dr. Mark Johnson",
+        "dosage": "250mg three times daily",
+        "quantity": 21,
+        "special_instructions": "Store in refrigerator. Shake well before use"
+      },
+      {
+        "prescription_id": "RX011",
+        "medication_name": "Ibuprofen",
+        "prescribed_date": "2024-11-01",
+        "expiry_date": "2025-11-01",
+        "is_one_time": false,
+        "prescribing_doctor": "Dr. Mark Johnson",
+        "dosage": "200mg as needed",
+        "quantity": 100,
+        "special_instructions": null
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST008",
+    "first_name": "Robert",
+    "last_name": "Anderson",
+    "phone": "555-0108",
+    "email": "robert.anderson@email.com",
+    "date_of_birth": "1983-08-03",
+    "prescriptions": [
+      {
+        "prescription_id": "RX012",
+        "medication_name": "Lisinopril",
+        "prescribed_date": "2024-07-01",
+        "expiry_date": "2025-07-01",
+        "is_one_time": false,
+        "prescribing_doctor": "Dr. Jennifer White",
+        "dosage": "10mg once daily",
+        "quantity": 30,
+        "special_instructions": "Monitor blood pressure regularly. Avoid potassium supplements"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST009",
+    "first_name": "Lisa",
+    "last_name": "Martinez",
+    "phone": "555-0109",
+    "email": "lisa.martinez@email.com",
+    "date_of_birth": "1989-01-20",
+    "prescriptions": [
+      {
+        "prescription_id": "RX013",
+        "medication_name": "Azithromycin",
+        "prescribed_date": "2024-10-10",
+        "expiry_date": "2024-11-10",
+        "is_one_time": true,
+        "prescribing_doctor": "Dr. Kevin Park",
+        "dosage": "250mg once daily",
+        "quantity": 6,
+        "special_instructions": "Take at the same time each day"
+      },
+      {
+        "prescription_id": "RX014",
+        "medication_name": "Metformin",
+        "prescribed_date": "2024-05-15",
+        "expiry_date": "2025-05-15",
+        "is_one_time": false,
+        "prescribing_doctor": "Dr. Kevin Park",
+        "dosage": "500mg twice daily",
+        "quantity": 60,
+        "special_instructions": null
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST010",
+    "first_name": "Christopher",
+    "last_name": "Garcia",
+    "phone": "555-0110",
+    "email": "christopher.garcia@email.com",
+    "date_of_birth": "1976-06-12",
+    "prescriptions": [
+      {
+        "prescription_id": "RX015",
+        "medication_name": "Atorvastatin",
+        "prescribed_date": "2024-10-01",
+        "expiry_date": "2025-10-01",
+        "is_one_time": false,
+        "prescribing_doctor": "Dr. Nancy Davis",
+        "dosage": "10mg once daily",
+        "quantity": 30,
+        "special_instructions": "Avoid grapefruit juice while taking this medication"
+      },
+      {
+        "prescription_id": "RX016",
+        "medication_name": "Ibuprofen",
+        "prescribed_date": "2024-08-20",
+        "expiry_date": "2025-08-20",
+        "is_one_time": false,
+        "prescribing_doctor": "Dr. Nancy Davis",
+        "dosage": "600mg three times daily with food",
+        "quantity": 90,
+        "special_instructions": "Use for arthritis pain management. Monitor for stomach bleeding"
+      }
+    ]
+  }
+]
+

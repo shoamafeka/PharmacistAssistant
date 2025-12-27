@@ -1,0 +1,143 @@
+[
+  {
+    "medication_name": "Lisinopril",
+    "strength": "10mg",
+    "generic_name": "Lisinopril",
+    "active_ingredients": [
+      {
+        "name": "Lisinopril"
+      }
+    ],
+    "dosage_forms": ["tablet"],
+    "prescription_required": true,
+    "stock_quantity": 25,
+    "usage_instructions": {
+      "dosage": "5-40mg once daily",
+      "administration": "Take by mouth with or without food",
+      "frequency": "Once daily",
+      "duration": "As prescribed by doctor",
+      "special_instructions": "Monitor blood pressure regularly. May cause dizziness, especially when standing up"
+    },
+    "common_side_effects": [
+      "Dizziness",
+      "Headache",
+      "Dry cough",
+      "Fatigue",
+      "Nausea"
+    ],
+    "storage_instructions": "Store at room temperature (68-77°F). Keep away from moisture and light"
+  },
+  {
+    "medication_name": "Metformin",
+    "strength": "500mg",
+    "generic_name": "Metformin hydrochloride",
+    "active_ingredients": [
+      {
+        "name": "Metformin hydrochloride"
+      }
+    ],
+    "dosage_forms": ["tablet"],
+    "prescription_required": true,
+    "stock_quantity": 8,
+    "usage_instructions": {
+      "dosage": "500-2000mg daily in divided doses",
+      "administration": "Take with meals to reduce stomach upset",
+      "frequency": "Usually twice daily with meals",
+      "duration": "As prescribed by doctor for diabetes management",
+      "special_instructions": "Start with lower dose and gradually increase. May cause gastrointestinal side effects initially"
+    },
+    "common_side_effects": [
+      "Nausea",
+      "Diarrhea",
+      "Stomach upset",
+      "Metallic taste",
+      "Loss of appetite"
+    ],
+    "storage_instructions": "Store at room temperature. Keep container tightly closed"
+  },
+  {
+    "medication_name": "Atorvastatin",
+    "strength": "20mg",
+    "generic_name": "Atorvastatin calcium",
+    "active_ingredients": [
+      {
+        "name": "Atorvastatin calcium"
+      }
+    ],
+    "dosage_forms": ["tablet"],
+    "prescription_required": true,
+    "stock_quantity": 0,
+    "usage_instructions": {
+      "dosage": "10-80mg once daily",
+      "administration": "Take by mouth with or without food, usually at bedtime",
+      "frequency": "Once daily",
+      "duration": "Long-term use as prescribed",
+      "special_instructions": "Avoid grapefruit juice. Report muscle pain or weakness to doctor immediately"
+    },
+    "common_side_effects": [
+      "Muscle pain",
+      "Joint pain",
+      "Diarrhea",
+      "Nausea",
+      "Headache"
+    ],
+    "storage_instructions": "Store at room temperature. Protect from light and moisture"
+  },
+  {
+    "medication_name": "Amoxicillin",
+    "strength": "500mg",
+    "generic_name": "Amoxicillin",
+    "active_ingredients": [
+      {
+        "name": "Amoxicillin trihydrate"
+      }
+    ],
+    "dosage_forms": ["capsule", "tablet", "liquid"],
+    "prescription_required": true,
+    "stock_quantity": 15,
+    "usage_instructions": {
+      "dosage": "250-500mg every 8 hours or 500-875mg every 12 hours",
+      "administration": "Take by mouth with or without food",
+      "frequency": "Usually 2-3 times daily",
+      "duration": "7-14 days or as prescribed",
+      "special_instructions": "Complete the full course even if you feel better. Do not skip doses"
+    },
+    "common_side_effects": [
+      "Nausea",
+      "Diarrhea",
+      "Vomiting",
+      "Rash",
+      "Stomach upset"
+    ],
+    "storage_instructions": "Store at room temperature. If liquid form, refrigerate and shake well before use"
+  },
+  {
+    "medication_name": "Ibuprofen",
+    "strength": "400mg",
+    "generic_name": "Ibuprofen",
+    "active_ingredients": [
+      {
+        "name": "Ibuprofen"
+      }
+    ],
+    "dosage_forms": ["tablet", "capsule", "liquid"],
+    "prescription_required": false,
+    "stock_quantity": 50,
+    "usage_instructions": {
+      "dosage": "200-400mg every 4-6 hours as needed",
+      "administration": "Take with food or milk to reduce stomach irritation",
+      "frequency": "Every 4-6 hours, not to exceed 1200mg per day",
+      "duration": "Short-term use for pain relief",
+      "special_instructions": "Do not exceed recommended dose. Avoid if you have stomach ulcers or kidney problems"
+    },
+    "common_side_effects": [
+      "Stomach upset",
+      "Nausea",
+      "Dizziness",
+      "Headache",
+      "Drowsiness"
+    ],
+    "storage_instructions": "Store at room temperature. Keep away from heat and direct sunlight"
+  }
+]
+
