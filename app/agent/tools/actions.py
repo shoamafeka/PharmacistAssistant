@@ -62,7 +62,7 @@ def get_user_prescriptions(user_id: str) -> Dict[str, Any]:
                 "error": "Invalid user ID format"
             }
         
-        user = _db_manager.get_user_by_id(user_id)
+        user = _db_manager.get_user_by_id(user_id.upper())
         
         if not user:
             return {
@@ -223,7 +223,7 @@ def verify_prescription(user_id: str, prescription_id: str) -> Dict[str, Any]:
                 "error": "Invalid prescription ID format"
             }
         
-        user = _db_manager.get_user_by_id(user_id)
+        user = _db_manager.get_user_by_id(user_id.upper())
         
         if not user:
             return {

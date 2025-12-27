@@ -12,7 +12,7 @@ The assistant can help with:
 
 ## How it works
 
-Basically, you talk to it through a web interface, and it uses GPT-4 to understand what you need. Then it calls some tools to look up information from a database (stored as JSON files). The whole thing is stateless - it remembers your conversation during a session but forgets everything when you close it.
+Basically, you talk to it through a web interface, and it uses GPT-5 to understand what you need. Then it calls some tools to look up information from a database (stored as JSON files). The whole thing is stateless - it remembers your conversation during a session but forgets everything when you close it.
 
 The main pieces are:
 - **Streamlit app** (`app/main.py`) - the web interface
@@ -73,6 +73,11 @@ The agent follows three main patterns:
 
 There's a testing guide in `evaluation/evaluation.md` with scenarios for testing all the flows.
 
+## Screenshots
 
+![Screenshot 1](assets/screenshot1.png)
 
+![Screenshot 2](assets/screenshot2.png)
+
+![Screenshot 3](assets/screenshot3.png)
 
