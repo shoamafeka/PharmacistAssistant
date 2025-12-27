@@ -25,7 +25,7 @@ I implemented a decorator-based tool system where you just annotate functions wi
 
 ## Getting started
 
-1. Clone the repo and install dependencies:
+1. Clone the repo:
 ```bash
 git clone `https://github.com/shoamafeka/PharmacistAssistant.git`
 cd PharmacistAssistant
