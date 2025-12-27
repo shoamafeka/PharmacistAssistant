@@ -29,7 +29,6 @@ I implemented a decorator-based tool system where you just annotate functions wi
 ```bash
 git clone `https://github.com/shoamafeka/PharmacistAssistant.git`
 cd PharmacistAssistant
-pip install -r requirements.txt
 ```
 
 2. Create a `.env` file with your OpenAI API key:
